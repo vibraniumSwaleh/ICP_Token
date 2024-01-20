@@ -1,5 +1,5 @@
 # About
-![TOK Main page](src/token_assets/assets/TOK-main.png)
+![TOK Main page](/src/token_assets/assets/TOK-main.png)
 This application demonstrates how to create your mown token on the Internet Computer Blockchain called IC (Internet Computer). The application uses ICO (Internet Computer Protocol). The ICP is the only general-purpose blockchain that runs decentralized apps at web speed.
 
 Internet Computer Protocol is a blockchain network that aims to bring greater efficiency, speed and decentralization to computation and data storage. 
