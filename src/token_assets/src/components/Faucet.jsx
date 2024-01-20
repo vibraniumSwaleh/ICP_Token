@@ -20,7 +20,7 @@ function Faucet() {
         Faucet
       </h2>
       <label>
-        Get your free DAngela tokens here! Claim 10,000 TOK tokens to your
+        Get your free TOK tokens here! Claim 10,000 TOK tokens to your
         account.
       </label>
       <p className="trade-buttons">
